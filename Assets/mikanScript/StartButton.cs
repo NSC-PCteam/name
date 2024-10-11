@@ -12,7 +12,7 @@ public class StartButton : MonoBehaviour
         button.onClick.AddListener(() =>
         {
             // シーン遷移の際にはSceneManagerを使用する
-            SceneManager.LoadScene("MainScene");
+            SceneManager.LoadScene("MainScenes");
         });
     }
 }
