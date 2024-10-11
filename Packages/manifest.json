@@ -1,5 +1,6 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "com.unity.collab-proxy": "2.4.4",
     "com.unity.feature.development": "1.0.2",
     "com.unity.render-pipelines.universal": "16.0.6",
@@ -7,6 +8,17 @@
     "com.unity.ugui": "2.0.0",
     "com.unity.visualscripting": "1.8.0",
     "com.unity.modules.accessibility": "1.0.0",
+=======
+    "com.unity.ai.navigation": "1.1.5",
+    "com.unity.cinemachine": "2.9.7",
+    "com.unity.collab-proxy": "2.0.5",
+    "com.unity.feature.development": "1.0.2",
+    "com.unity.inputsystem": "1.6.3",
+    "com.unity.textmeshpro": "3.0.6",
+    "com.unity.timeline": "1.8.4",
+    "com.unity.ugui": "1.0.0",
+    "com.unity.visualscripting": "1.8.0",
+>>>>>>> 843e0bbfb0509bf459654a4e84bca691c083e2c1
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",

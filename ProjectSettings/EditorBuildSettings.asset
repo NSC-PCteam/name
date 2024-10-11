@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
+<<<<<<< HEAD
   m_Scenes: []
   m_configObjects: {}
+=======
+  m_Scenes:
+  - enabled: 1
+    path: Assets/mikan/TitleScene.unity
+    guid: 223f6159524de7042b54c8822aab0ee9
+  - enabled: 1
+    path: Assets/mikan/GameOverScene.unity
+    guid: af18f43f5e34c93488a031c3cec9a256
+  - enabled: 1
+    path: Assets/mikan/MainScene.unity
+    guid: 8df53a03018749b4fab6eb7ed0999402
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
+>>>>>>> 843e0bbfb0509bf459654a4e84bca691c083e2c1
